@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasukalariya" alt="vasukalariya" /> </p>
 
+<p> <img src="https://github-readme-stats.vercel.app/api?username=vasukalariya&show_icons=true" alt="vasukalariya" />  </p>
+
 <a href="https://twitter.com/vasukalariya2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vasukalariya2" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/in/vasukalariya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="in/vasukalariya" height="20" width="20" /></a>
 <a href="https://kaggle.com/vasukalariya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="vasukalariya2" height="20" width="20" /></a>
 
 ---
-
-<p> <img src="https://github-readme-stats.vercel.app/api?username=vasukalariya&show_icons=true" alt="vasukalariya" />  </p>
 
 <!--
 **vasukalariya/vasukalariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
